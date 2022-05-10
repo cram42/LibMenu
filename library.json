@@ -1,0 +1,20 @@
+{
+    "name": "LibMenu",
+    "version": "1.0.0",
+    "description": "An Arduino library for generating menus for U8G2Lib displays",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cram42/LibMenu.git"
+    },
+    "authors": [
+        {
+            "name": "Grant Le Roux",
+            "email": "grant.leroux@gmail.com"
+        }
+    ],
+    "license": "GPL-3.0-or-later",
+    "dependencies": [],
+    "frameworks": [ "arduino" ],
+    "platforms": [ "atmelavr" ],
+    "headers": [ "LibMenu.h" ]
+}
